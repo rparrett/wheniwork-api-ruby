@@ -41,7 +41,7 @@ wiw = WhenIWork.new('api-token-here')
 response = wiw.get('users')
 ```
 
-Create a new shift
+Create a new user
 
 ```ruby
 wiw = WhenIWork.new('api-token-here')
